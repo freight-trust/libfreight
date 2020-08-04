@@ -1,0 +1,10 @@
+{
+  "StatusMapHyundai": {
+    "Gate out empty": "OA",
+    "Gate in empty": "I",
+    "Vessel Departed": "VD",
+    "Vessel Arrived": "VA",
+    "Loaded": "AE",
+    "Discharged": "UV"
+  }
+}

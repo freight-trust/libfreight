@@ -1,0 +1,54 @@
+<metadata__cache__entry>
+  <version>5.2.0.0</version>
+  <connectorName>send-customer-as2-config</connectorName>
+  <metadataIo class="tree-map">
+    <entry>
+      <string>http://www.mulesoft.org/schema/mule/as2/send</string>
+      <map>
+        <entry>
+          <string>__default__</string>
+          <com.freighttrust.tooling.metadata.cache.DefaultMetadataCacheEntry>
+            <output class="com.freighttrust.common.metadata.DefaultMetaData">
+              <payload class="com.freighttrust.tooling.metadata.api.TypeRefMetaDataModel">
+                <connectorName>send-customer-as2-config</connectorName>
+                <typeId>com.freighttrust.api.MuleEvent</typeId>
+              </payload>
+              <properties>
+                <entry>
+                  <com.freighttrust.common.metadata.MetaDataPropertyScope>OUTBOUND</com.freighttrust.common.metadata.MetaDataPropertyScope>
+                  <com.freighttrust.common.metadata.MetaDataProperties>
+                    <fields/>
+                  </com.freighttrust.common.metadata.MetaDataProperties>
+                </entry>
+                <entry>
+                  <com.freighttrust.common.metadata.MetaDataPropertyScope>INBOUND</com.freighttrust.common.metadata.MetaDataPropertyScope>
+                  <com.freighttrust.common.metadata.MetaDataProperties>
+                    <fields/>
+                  </com.freighttrust.common.metadata.MetaDataProperties>
+                </entry>
+                <entry>
+                  <com.freighttrust.common.metadata.MetaDataPropertyScope>RECORD</com.freighttrust.common.metadata.MetaDataPropertyScope>
+                  <com.freighttrust.common.metadata.MetaDataProperties>
+                    <fields/>
+                  </com.freighttrust.common.metadata.MetaDataProperties>
+                </entry>
+                <entry>
+                  <com.freighttrust.common.metadata.MetaDataPropertyScope>FLOW</com.freighttrust.common.metadata.MetaDataPropertyScope>
+                  <com.freighttrust.common.metadata.MetaDataProperties>
+                    <fields/>
+                  </com.freighttrust.common.metadata.MetaDataProperties>
+                </entry>
+                <entry>
+                  <com.freighttrust.common.metadata.MetaDataPropertyScope>SESSION</com.freighttrust.common.metadata.MetaDataPropertyScope>
+                  <com.freighttrust.common.metadata.MetaDataProperties>
+                    <fields/>
+                  </com.freighttrust.common.metadata.MetaDataProperties>
+                </entry>
+              </properties>
+            </output>
+          </com.freighttrust.tooling.metadata.cache.DefaultMetadataCacheEntry>
+        </entry>
+      </map>
+    </entry>
+  </metadataIo>
+</metadata__cache__entry>

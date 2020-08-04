@@ -1,0 +1,18 @@
+{
+  "MaerskEventTranslate": {
+    "Gate in": "boolean",
+    "Ingate Load": "I",
+    "Load on": "boolean",
+    "Loaded on Vessel": "AE",
+    "Discharge": "boolean",
+    "Unloaded from Vessel": "UV",
+    "Gate out Empty": "boolean",
+    "Empty Equipment Dispatched": "EE",
+    "On rail": "boolean",
+    "LOADED_ON_RAIL": "AL",
+    "Off rail": "boolean",
+    "UNLOADED_FROM_RAIL": "UR",
+    "Gate out Load": "boolean",
+    "Outgate Load": "OL"
+  }
+}

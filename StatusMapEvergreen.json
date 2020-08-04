@@ -1,0 +1,17 @@
+{
+  "StatusMapEvergreen": {
+    "Gate out empty": "OA",
+    "Gate in empty": "I",
+    "Vessel departed": "VD",
+    "Vessel arrived": "VA",
+    "Loaded": "AE",
+    "loaded on vessel": "AE",
+    "Discharged": "UV",
+    "Received": "CO",
+    "Pick-up by merchant haulage": "MH",
+    "Empty container received": "EE",
+    "Empty container returned": "RD",
+    "Despatched by rail": "RL",
+    "JUNCTION RECEIVED": "IT"
+  }
+}

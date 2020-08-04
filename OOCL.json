@@ -1,0 +1,20 @@
+{
+  "StatusMapOOCL": {
+    "Arrived": "A",
+    "Highway Arrival": "A",
+    "Highway Departure": "HD",
+    "Vessel Arrived": "VA",
+    "Vessel Departed": "VD",
+    "Loaded": "AE",
+    "Discharged": "UV",
+    "Carrier Released": "CR",
+    "Container Received": "CO",
+    "Container Returned": "RD",
+    "Container Deramped": "UR",
+    "Construction Placement": "CP",
+    "Ramped": "AL",
+    "Released": "CA",
+    "Container Picked Up": "EE",
+    "Departed": "RL"
+  }
+}

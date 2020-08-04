@@ -1,0 +1,10 @@
+{
+  "StatusMapHPL": {
+    "Gate out empty": "OA",
+    "Gate in empty": "I",
+    "Vessel departed": "VD",
+    "Vessel arrived": "VA",
+    "Loaded": "AE",
+    "Discharged": "UV"
+  }
+}

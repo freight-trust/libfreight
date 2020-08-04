@@ -1,0 +1,28 @@
+{
+  "shipmentEventBase": {
+    "billOfLadingNumber": None,
+    "bookingNumber": None,
+    "carrierCode": None,
+    "carrierName": None,
+    "city": None,
+    "codeType": None,
+    "country": None,
+    "estimatedEvent": False,
+    "eventCode": None,
+    "eventName": None,
+    "eventTime": None,
+    "estimatedEvent": False,
+    "location": None,
+    "reportSource": None,
+    "resolvedEventSource": None,
+    "shipmentReferenceNumber": None,
+    "state": None,
+    "terminalCode": None,
+    "unitId": None,
+    "unitSize": 0,
+    "unitTypeCode": None,
+    "vessel": None,
+    "voyageNumber": None,
+    "workOrderNumber": None
+  }
+}

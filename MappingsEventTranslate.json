@@ -1,0 +1,26 @@
+{ 
+"MappingsEventTranslate": {
+            "Empty to Shipper": "1",
+            "Empty Equipment Dispatched": "EE",
+            "Received at Origin": "1",
+            "Cargo Received": "CO",
+            "On Board": "1",
+            "Loaded on Vessel": "AE",
+            "Discharged": "1",
+            "Unloaded from Vessel": "UV",
+            "Load Outgate": "1",
+            "Outgate Load": "OL"
+            "Empty Returned": "1",
+            "Return Container": "RD",
+            "In Transit": "1",
+            "In Transit": "I",
+            "Arrived": "1",
+            "ARRIVED": "A",
+            "Loaded on Rail": "1",
+            "LOADED_ON_RAIL": "AL":
+            "Notification": "1",
+            "Notified": "N",
+            "Sending out empty container to other depot/terminal": "1",
+            "Return Container": "RD"
+    }
+}

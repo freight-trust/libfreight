@@ -1,0 +1,13 @@
+{
+  "_object": "/customs_entry",
+  "id": "abcdefg-1234567-hijk",
+  "entry_number": "WXYZ-0987",
+  "release_status": "cleared",
+  "release_date": "2019-04-02",
+  "shipment": {
+    "_object": "/api/refs/object",
+    "ref_type": "/shipment",
+    "link": "https://api.freighttrust.com/${INTERFACE}/shipments/123456",
+    "id": 123456
+  }
+}

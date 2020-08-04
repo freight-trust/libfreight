@@ -1,0 +1,76 @@
+{
+  "_object": "/commercial_invoice",
+  "id": "ABCD-EFG-HIJK",
+  "invoice_number": "SAMPLE-INVOICE",
+  "manufacturer_addresses": [
+    {
+      "_object": "/address",
+      "street_address": "1641 Settlers Lane",
+      "street_address2": "STE 2918",
+      "city": "Albany",
+      "state": "MN",
+      "country": "United States",
+      "country_code": "US",
+      "zip": "56307",
+      "unlocode": null,
+      "timezone": "America/Los_Angeles",
+      "ref": null
+    }
+  ],
+  "total_value": {
+    "_object": "/money",
+    "amount": "1000",
+    "currency_code": "USD"
+  },
+  "total_unit_count": "2.0",
+  "total_weight": {
+    "value": 10.0,
+    "unit": "kg",
+    "_object": "/quantity/weight"
+  },
+  "total_volume": {
+    "value": 10.0,
+    "unit": "cbm",
+    "_object": "/quantity/volume"
+  },
+  "line_items": [
+    {
+      "_object": "/commercial_invoice_line_item",
+      "price_per_unit": {
+        "_object": "/money",
+        "amount": "500",
+        "currency_code": "USD"
+      },
+      "value": {
+        "_object": "/money",
+        "amount": "1000",
+        "currency_code": "USD"
+      },
+      "total_units": "2.0",
+      "container_number": "ABCDEFG",
+      "purchase_order_number": "PURCHASE-ORDER-0",
+      "weight": {
+        "value": 5.0,
+        "unit": "kg",
+        "_object": "/quantity/weight"
+      },
+      "volume": {
+        "value": 5.0,
+        "unit": "cbm",
+        "_object": "/quantity/volume"
+      },
+      "product": {
+        "_object": "/api/refs/object",
+        "ref_type": "/product",
+        "link": "https://api.freighttrust.com/${INTERFACE}/products/12345",
+        "id": 12345
+      }
+    }
+  ],
+  "shipment": {
+    "_object": "/api/refs/object",
+    "ref_type": "/shipment",
+    "link": "https://api.freighttrust.com/${INTERFACE}/shipments/12345",
+    "id": 12345
+  }
+}

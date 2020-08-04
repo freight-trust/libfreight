@@ -1,0 +1,29 @@
+{
+  "StatusMapONE": {
+    "Gate In to Outbound": "I",
+    " at Port of Loading": "AE",
+    "Departure from Port of Loading": "VD",
+    "Arrival at Port of Discharging": "VA",
+    " at Port of Discharging": "UV",
+    "Gate Out from Inbound": "OA",
+    "Rail Departure": "RL",
+    "Rail Arrival": "AR",
+    "Loaded on rail": "AL",
+    "Unloaded from rail": "UR",
+    "Empty Container Returned": "RD",
+    "Empty Container Release": "EE",
+    "Loaded at Port of Transshipment": "LPOT",
+    "Unloaded at Port of Transshipment": "UNPOT",
+    "Arrival at Port of Transshipment": "APOT",
+    "Departure from Port of Transshipment": "DPOT",
+    "T/S Berthing": "TB",
+    "POD Berthing": "PODB",
+    "Feeder Arrival": "FA",
+    "Feeder Departure": "FD",
+    "Feeder Loading": "FL",
+    "Feeder Unloading": "FUL",
+    "Water POL Unloading Destination": "WD",
+    "Truck Terminal Departure": "TTD",
+    "Truck Terminal Arrival": "TTA"
+  }
+}
