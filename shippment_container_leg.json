@@ -1,0 +1,18 @@
+{
+  "_object": "/ocean/shipment_container_leg",
+  "shipment_container": {
+    "_object": "/api/refs/object",
+    "ref_type": "/ocean/shipment_container",
+    "link": "https://api.terminalfreight.com/${BROKER}/ocean/shipment_containers/123",
+    "id": 123
+  },
+  "leg": {
+    "_object": "/api/refs/object",
+    "ref_type": "/shipment_leg",
+    "link": "https://api.terminalfreight.com/${BROKER}/shipment_legs/123",
+    "id": 123
+  },
+  "dates": {
+    "actual_loaded_on_board_date": "2019-01-18T22:08:38.599Z"
+  }
+}

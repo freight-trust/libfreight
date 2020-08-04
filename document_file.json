@@ -1,0 +1,26 @@
+{
+  "_object": "/api/response",
+  "self": "https://api.terminalfreight.com/${BROKER}/documents/ABC123",
+  "version": 2,
+  "data": {
+    "_object": "/document",
+    "id": "ABC123",
+    "file_name": "readme.txt"
+    "document_type": "billing_packet",
+    "memo": null,
+    "file_link": "https://api.terminalfreight.com/${BROKER}/documents/ABC123/download"
+    "archived_at": null,
+    "file_metadata": {
+      "_object": "file/metadata",
+      "size": 20000,
+      "uploaded_at": "2020-06-12T02:00:00.338Z"
+    },
+    "shipment": {
+      "_object": "/api/refs/object",
+      "ref_type": "/shipment",
+      "link": "https://api.terminalfreight.com/${BROKER}/shipments/123456",
+      "id": 123456
+    },
+    "error": null
+  }
+}

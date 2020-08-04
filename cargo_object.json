@@ -1,0 +1,59 @@
+{
+  "_object": "/cargo",
+  "volume": {
+    "value": 74.18,
+    "unit": "cbm",
+    "_object": "/quantity/volume"
+  },
+  "weight": {
+    "value": 707.5,
+    "unit": "kg",
+    "_object": "/quantity/weight"
+  },
+  "marks_and_numbers": "Very fragile",
+  "contains_li_ion": true,
+  "lithium_battery_packing_types": [
+    "packed_loose",
+    "packed_with_equipment",
+    "contained_in_equipment",
+    "contained_in_battery_powered_vehicle"
+  ],
+  "contains_non_li_ion_battery": false,
+  "contains_other_dangerous_goods": false,
+  "contains_magnets": false,
+  "contains_hazmat": true,
+  "shipping_units": [
+    {
+      "_object": "/shipping_unit",
+      "name": "laptop",
+      "volume": {
+        "value": 89.7,
+        "unit": "cbm",
+        "_object": "/quantity/volume"
+      },
+      "weight": {
+        "value": 45.6,
+        "unit": "kg",
+        "_object": "/quantity/weight"
+      },
+      "height": {
+        "value": 11.1,
+        "unit": "cm",
+        "_object": "/quantity/length"
+      },
+      "length": {
+        "value": 12.4,
+        "unit": "cm",
+        "_object": "/quantity/length"
+      },
+      "width": {
+        "value": 65.3,
+        "unit": "cm",
+        "_object": "/quantity/length"
+      },
+      "count": 200,
+      "atomic_count": 400,
+      "unit_type": "pallet"
+    }
+  ]
+}

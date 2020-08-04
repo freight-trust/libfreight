@@ -1,0 +1,28 @@
+{
+  "_object": "/event",
+  "id": 123456,
+  "type": "/shipment_leg#updated_estimated_time_of_arrival",
+  "created_at": "2020-03-12T21:22:01.203Z",
+  "version": 2,
+  "data": {
+    "_object": "/shipment_event_data",
+    "resource": {
+      "_object": "/shipment_leg",
+      "id": 948211,
+      "estimated_arrival": "2020-01-30T19:31:26.320Z",
+      "actual_arrival": "2020-01-30T19:31:26.320Z",
+      "estimated_departure": "2020-01-30T19:31:26.320Z",
+      "actual_departure": "2020-01-30T19:31:26.320Z",
+      ...
+    },
+    "shipment": {
+      "id": 123,
+      "_object": "/shipment",
+      "name": "ABC Shipment",
+      "transportation_mode": "ocean",
+      "updated_at": "2020-01-30T01:50:28.225Z",
+      "incoterm": "FOB",
+      ...
+    }
+  }
+}
